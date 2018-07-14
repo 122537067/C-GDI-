@@ -1,0 +1,31 @@
+D:\bit mouse\bit mouse\bin\Debug\bit mouse.exe.config
+D:\bit mouse\bit mouse\obj\Debug\bit mouse.csprojResolveAssemblyReference.cache
+D:\bit mouse\bit mouse\obj\Debug\bit_mouse.Form1.resources
+D:\bit mouse\bit mouse\obj\Debug\bit_mouse.Properties.Resources.resources
+D:\bit mouse\bit mouse\obj\Debug\bit mouse.csproj.GenerateResource.Cache
+D:\bit mouse\bit mouse\bin\Debug\bit mouse.exe
+D:\bit mouse\bit mouse\bin\Debug\bit mouse.pdb
+D:\bit mouse\bit mouse\obj\Debug\bit mouse.exe
+D:\bit mouse\bit mouse\obj\Debug\bit mouse.pdb
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\bin\Debug\bit mouse.exe.config
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\obj\Debug\bit mouse.exe
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\obj\Debug\bit mouse.pdb
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\bin\Debug\bit mouse.exe
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\bin\Debug\bit mouse.pdb
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\obj\Debug\bit_mouse.Form1.resources
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\obj\Debug\bit_mouse.Properties.Resources.resources
+C:\Users\Administrator\Downloads\bit mouse\bit mouse\obj\Debug\bit mouse.csproj.GenerateResource.Cache
+E:\C#\打地鼠0.1\bit mouse\bit mouse\bin\Debug\bit mouse.exe.config
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit mouse.exe
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit mouse.pdb
+E:\C#\打地鼠0.1\bit mouse\bit mouse\bin\Debug\bit mouse.exe
+E:\C#\打地鼠0.1\bit mouse\bit mouse\bin\Debug\bit mouse.pdb
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.Form1.resources
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.Properties.Resources.resources
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit mouse.csproj.GenerateResource.Cache
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.Setting.resources
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.SetImage.resources
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit mouse.csprojResolveAssemblyReference.cache
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.SetHammer.resources
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.About.resources
+E:\C#\打地鼠0.1\bit mouse\bit mouse\obj\Debug\bit_mouse.Form2.resources
